@@ -27,3 +27,5 @@ The following image shows the web application's appearance and functionality:
 
 -[The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for the individual city.
 
+Demo Sample completed below:
+![image](https://user-images.githubusercontent.com/103874328/199644963-c116a8b3-c1ea-4b4e-843f-e7964a77c621.png)
